@@ -1,0 +1,88 @@
+<!DOCTYPE html> 
+
+<html>
+	<head>
+		<title>My First Web Page</title>
+	</head>
+	
+	<body>
+	
+		
+		<h1>Hello World! <h1>
+		<hr />
+		<h2>A place I would like to visit</h2>
+		<p>I would visit Germany because they have some real neat castles, also the city of Berlin because of the "Philharmoik Symphonie"</p>
+		<p><a href="https://www.bundesregierung.de/breg-en" target="_blank">German Government Website</a></p>
+		<img src="Berlin.jpg" width="1920" height="1080" alt="Berlin" />
+		<h2>A person I admire <br> (past or present)</h2>
+		<p>I admire Josephi Krakowski because of his inspiration to the flex seal family of products! Only $10.99 and you can have your very own boat. Well half of a boat.</p>
+		<p><a href="https://flexsealproducts.com/blogs/phil-swift" target="_blank">Phil Swift</a></p>
+		<img src="josephikrakowski.jpg" width="500" height="500" alt="Our Lord" />
+		<h2>Favorite Fruits </h2>
+		<ul>
+			<li>Watermelon</li>
+			<li>Apples</li>
+			<li>Peaches</li>
+		</ul>
+		<!-- I don't eat very much fruit-->
+		<h2>Favorite Presidents</h2>
+		<ol>
+			<li>Ronald Reagan</li>
+			<li>Donny Ballgame</li>
+			<li>Phil Swift (Of the Flex Seal family of products) </li>
+		</ol>
+		<!--Donate to my campaign and I promise America will be gooder again-->	
+		<h2>My Favorite Animal</h2>
+		<p><a href="animal.html" target="_self">T-34 Tank</a></p>
+		<source>
+		<video width="480" length="480" controls></video>
+		src="church.mp4" type="video/mp4">
+		</video>
+	
+	</body>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</html>

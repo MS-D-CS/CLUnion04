@@ -1,0 +1,76 @@
+<!DOCTYPE html> 
+
+<html>
+	<head>
+		<title>My First Web Page</title>
+	</head>
+	
+	<body>
+	
+		
+		<h1>Hello World! <h1>
+		<hr />
+		<h2>A place I would like to visit</h2>
+		<p>I would visit Germany because they have some real neat castles, also the city of Berlin because of the "Philharmoik Symphonie"</p>
+		<h2>A person I admire <br> (past or present)</h2>
+		<p>I admire Josephi Krakowski because of his inspiration to the flex seal family of products! Only $10.99 and you can have your very own boat. Well half of a boat.</p>
+		<h2>Favorite Fruits </h2>
+		<ul>
+			<li>Watermelon</li>
+			<li>Apples</li>
+			<li>Peaches</li>
+		</ul>
+		<h2>Favorite Presidents</h2>
+		<ol>
+			<li>Ronald Reagan</li>
+			<li>Donny Ballgame</li>
+			<li>Phil Swift (Of the Flex Seal family of products) </li>
+		</ol>
+			
+	</body>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</html>
