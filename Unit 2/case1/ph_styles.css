@@ -1,5 +1,15 @@
 @charset "utf-8";
-@font-face ""
+@font-face {
+   font-family: Champagne;
+   src:url(cac_champagne.woff) format('woff')
+      url(cac_champagne.ttf) format('ttf');
+}
+@font-face {
+font-family: Grunge;
+src: url(1942.woff) format('woff'),
+      url(DobkinPlain.ttf) format('ttf')
+
+}
 /*
    New Perspectives on HTML5 and CSS3, 7th Edition
    Tutorial 2
@@ -15,12 +25,45 @@
 
 
 /* Structural Styles */
+html{
+      background-color: hsl(91,8%, 56%);
+}
 
+body {
+   background-color: hsl(58, 31%, 84%);
+   font-family: 'Palatino Linotype', 'Book Antiqua', 'Palatino', 'serif';
+}
+header {
+   background-color:black;
+}
+p{
+margin: 0px;
+padding: 5px 25px 25px 25px
+}
 
-
-
+body>p{
+   text-align: center;
+   font-size: 1.1em;
+}
+address{
+   font-syle: normal;
+   text-align: center;
+   font-size: 0.9em;
+   padding-top: 10px;
+   padding-bottom: 10px;
+}
 /* Navigation Styles */
+nav a {
+   padding-top: 10px;
+   padding-bottom: 10px;
+   font-family: 'Tebuchet MS', Helvetica, sans-serif;
+}
 
+nav a:hover, nav a:active {
+   color: hsla(0,0%,100%,0.70);
+   text-decoration: none;
+   background-color: hsla(0, 0%, 42%, 0.7)
+}
 
 
 
