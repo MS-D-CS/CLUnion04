@@ -54,21 +54,33 @@ article{
                rgb(211, 211, 211);
 }
 
+article header h1{
+   text-shadow: rgb(181, 211, 181),
+   rgb(21, 21, 21, 0.66) 5px 5px 20px;
 
+}
 
 /* Page Body Styles */
-
+body{
+   border-left: 1px solid rgb(51, 51, 51);
+   border-left: 1px solid rgb(51, 51, 51);
+   box-shadow: rgb(51, 51, 51) 15px 0px 25px,
+               rgb(51, 51, 51) -15px 0px 25px;
+}
 
 
 
 /* Aside Styles */
 aside{
+   background: radial-gradient(white, rgb(151, 222, 151), rgb(81, 125, 81));
    border: 4px double rgb(45, 93, 62);
    border-radius: 30px;
-
+   box-shadow: rgba(51,91,51,0.4)
 }
 
 
 /* Footer Styles */
-
+footer{
+   background: linear-gradient(350deg, rgb(172,232,172), rgb(21,35,21) 80%); 
+}
 
