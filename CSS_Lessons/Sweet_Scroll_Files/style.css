@@ -9,7 +9,7 @@ body, html {
   position: relative;
   background-position: center;
   background-repeat: no-repeat;
-  background-color: #642580;
+  background-color: green;
   background-size: cover;
   min-height: 100%;
   background-attachment: fixed;
@@ -30,14 +30,14 @@ h3 {
 }
 
 .textSection {
-  background-color:#642580;
+  background-color:blue;
   padding:50px 80px;
 }
 .kitchen-equipment{
-  background-image: url('untensils.JPG');
+  background-image: url("image.jfif");
 }
 .cake-ingredients{
-  background-image: url("ingredients.jpg");
+  background-image: url("kdsktv\ pink\ slime.jpg");
 }
 .caption{
   position:absolute;
